@@ -1,0 +1,295 @@
+(footprint "L_Wuerth_WE-LHMI-Typ"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Shielded Power Inductor, Wuerth Elektronik, WE-PD, SMD, Typ LS, https://katalog.we-online.com/pbs/datasheet/7447715906.pdf")
+	(tags "Choke Shielded Power Inductor WE-PD TypLS Wuerth")
+	(property "Reference" "REF**"
+		(at 0 -4.1 0)
+		(layer "F.SilkS")
+		(uuid "f6c68502-7390-4255-b31d-1ff59f562408")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "L_Wuerth_WE-LHMI-Typ"
+		(at 0 3.7 0)
+		(layer "F.Fab")
+		(uuid "a467064b-d1f8-44fe-a769-f204615bf17d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "06b7733d-1368-42da-aad9-0274e1fb4d19")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "056207fb-f5b7-4687-b47d-cd94f9268e8a")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4274b96a-0b03-4296-bae4-55dda11449eb")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr smd)
+	(fp_circle
+		(center 0 0)
+		(end 0.15 0.15)
+		(stroke
+			(width 0.38)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.Adhes")
+		(uuid "005030d9-08ee-42e9-a508-18dfefd92d0a")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0.55 0)
+		(stroke
+			(width 0.38)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.Adhes")
+		(uuid "4ce22fb2-43fe-4d3e-bcbb-9c2c59e56cc5")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0.7 0)
+		(stroke
+			(width 0.38)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.Adhes")
+		(uuid "b5c7f751-42f0-4269-9431-b1a1610ffbb0")
+	)
+	(fp_line
+		(start -3.1 -2.8)
+		(end -3.1 -1.1)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "3ef39fdf-9713-4093-b9cb-766bd9b9791d")
+	)
+	(fp_line
+		(start -3.1 -2.8)
+		(end 0 -2.8)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "030bc97b-1858-4167-9c0b-4c146fc6f6a4")
+	)
+	(fp_line
+		(start -3.1 2.7)
+		(end -3.1 1.1)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "b9df5105-db14-47b9-bd95-b1b9b2f247ac")
+	)
+	(fp_line
+		(start 0 -2.8)
+		(end 3.1 -2.8)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "ae1dc477-614f-40a7-9475-87366df38609")
+	)
+	(fp_line
+		(start 3.1 -2.8)
+		(end 3.1 -1.1)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "4243f063-9a2f-475c-8b94-56ed366ee110")
+	)
+	(fp_line
+		(start 3.1 2.7)
+		(end -3.1 2.7)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "bed5875a-db96-4f9b-86bc-714acc654ba2")
+	)
+	(fp_line
+		(start 3.1 2.7)
+		(end 3.1 1.1)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "354bec45-039e-4d48-ab61-7cb6d9f97acd")
+	)
+	(fp_line
+		(start -3.2 -2.9)
+		(end 3.2 -2.9)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "af04985f-a0c8-451c-856c-a38916c51172")
+	)
+	(fp_line
+		(start -3.2 2.8)
+		(end -3.2 -2.9)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "3e253f8e-31df-4173-8615-027186d0583b")
+	)
+	(fp_line
+		(start 3.2 -2.9)
+		(end 3.2 2.8)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "66adb557-38da-49f3-a867-c03bc50bb9bf")
+	)
+	(fp_line
+		(start 3.2 2.8)
+		(end -3.2 2.8)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e6b7b6ef-1184-41d2-8887-ffc1302996a9")
+	)
+	(fp_line
+		(start -3 -2.7)
+		(end -3 2.6)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "57cd668b-a7e5-45ce-b25e-6429fbe483e8")
+	)
+	(fp_line
+		(start -3 2.6)
+		(end 3 2.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8735d00a-2372-4720-ae95-ae41342bfb7e")
+	)
+	(fp_line
+		(start 3 -2.7)
+		(end -3 -2.7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "be851ccb-5d7d-47c0-9dee-35f04721929a")
+	)
+	(fp_line
+		(start 3 2.6)
+		(end 3 -2.7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a0475077-09a0-43d2-bf63-015095907675")
+	)
+	(fp_circle
+		(center -2.3 1.809488)
+		(end -2 2.059488)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "643395a4-fc40-4a27-8d4d-8d68fa810236")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "49eb6966-563f-487b-8f83-cebafb2f4943")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -2.75 0)
+		(size 3 1.8)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "b43d9e2b-fb89-4527-99f5-54694bd6b1d2")
+	)
+	(pad "2" smd rect
+		(at 2.75 0)
+		(size 3 1.8)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "a4b8324d-1bb8-4245-9864-79a1ab7ea295")
+	)
+	(model "${KICAD_ATHANNISS_LIB_DIR}/3dmodels/inductors/IND_WE-LHMI_5030_WRE.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

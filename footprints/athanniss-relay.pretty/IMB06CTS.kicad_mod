@@ -122,7 +122,7 @@
 		(remove_unused_layers no)
 		(uuid "529e7136-69aa-4370-bbc8-867cbc18fcc8")
 	)
-	(model "C:/Users/bjerm/OneDrive/Desktop/c-2-1462041-7-1-3d.stp"
+	(model "${KICAD_ATHANNISS_LIB_DIR}/3dmodels/relays/c-2-1462041-7-1-3d.stp"
 		(offset
 			(xyz 0.254 0 0)
 		)
