@@ -262,7 +262,7 @@
 	)
 	(model "${KICAD_ATHANNISS_LIB_DIR}/3dmodels/lcd/128x32-OLED.STEP"
 		(offset
-			(xyz 18.8 -6 9.3)
+			(xyz 18.8 -6 10.8)
 		)
 		(scale
 			(xyz 1 1 1)
